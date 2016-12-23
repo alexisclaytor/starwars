@@ -9,4 +9,9 @@ header{
 
 .card{
   border: 1px solid gray;
+  padding: 20px;
+}
+
+.card-content{
+  display: block;
 }
