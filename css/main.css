@@ -1,11 +1,17 @@
 header{
-  font-color: black;
   background-color: gold;
-  padding-left: 300px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  margin-bottom: 30px;
 }
 
-img{
-  height: 444px;
+.card-image{
+  width: 100%;
+}
+
+.card{
+  border: 1px solid gray;
+  padding: 20px;
+}
+
+.card-content{
+    display: block;
 }
